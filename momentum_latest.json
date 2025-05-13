@@ -1,17 +1,5 @@
 [
   {
-    "id": "461244",
-    "date": "2025-05-13 05:03:29+00:00",
-    "text": "$DASHC (Dashcoin) \n7gkgsqE2Uip7LUyrqEi8fyLPNSbn7GYu9yFgtxZwYUVa\n\n💰 Marketcap: $192.69K\n\nCALLS - 1\n\n13 MAY (UTC)\n1. Apex Solana Signal 🆕\n└ 05:03:27\n\nDextools | Dexscreener | Pump",
-    "links": [
-      "https://dexscreener.com/solana/7gkgsqE2Uip7LUyrqEi8fyLPNSbn7GYu9yFgtxZwYUVa",
-      "https://solscan.io/token/7gkgsqE2Uip7LUyrqEi8fyLPNSbn7GYu9yFgtxZwYUVa",
-      "https://t.me/ApexSolanaSignal/12072",
-      "https://www.pump.fun/7gkgsqE2Uip7LUyrqEi8fyLPNSbn7GYu9yFgtxZwYUVa",
-      "https://www.dextools.io/app/en/solana/pair-explorer/7gkgsqE2Uip7LUyrqEi8fyLPNSbn7GYu9yFgtxZwYUVa"
-    ]
-  },
-  {
     "id": "461245",
     "date": "2025-05-13 05:06:44+00:00",
     "text": "$NOTHING (probablynothing) \nXXHw8cV9dCveEAVLijwMM9wVq1xotUFakbzYpT8u23J\n\n💰 Marketcap: $181.77K\n\nCALLS - 1\n\n13 MAY (UTC)\n1. Apex Solana Signal 🆕\n└ 05:06:24\n\nDextools | Dexscreener | Pump",
@@ -62,6 +50,18 @@
       "https://www.pump.fun/HHHFmtmp1sFpvswa5N1kktdT4hnYAi1CuSaKww75pump",
       "https://x.com/ictokens",
       "https://t.me/TheDegenBoysLounge/28116"
+    ]
+  },
+  {
+    "id": "461249",
+    "date": "2025-05-13 05:14:19+00:00",
+    "text": "💊 $rumor (buy the rumor) \n5Z87cZiCDzLJismWHNLAA7iXxRvchwo2hRQmKUBopump\n\n💰 Marketcap: $19.07K\n\nCALLS - 1\n\n13 MAY (UTC)\n1. 4AM Pumpfun Volume Signal 🆕\n└ 05:14:07\n\n🟢 Twitter | Website \n\nDextools | Dexscreener | Pump",
+    "links": [
+      "https://t.me/pumpfunvolumeby4AM/59144",
+      "https://solscan.io/token/5Z87cZiCDzLJismWHNLAA7iXxRvchwo2hRQmKUBopump",
+      "https://www.dextools.io/app/en/solana/pair-explorer/5Z87cZiCDzLJismWHNLAA7iXxRvchwo2hRQmKUBopump",
+      "https://x.com/search?q=buy%20the%20rumor&src=typed_query",
+      "https://dexscreener.com/solana/5Z87cZiCDzLJismWHNLAA7iXxRvchwo2hRQmKUBopump"
     ]
   }
 ]
