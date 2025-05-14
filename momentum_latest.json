@@ -1,17 +1,5 @@
 [
   {
-    "id": "465591",
-    "date": "2025-05-14 21:28:59+00:00",
-    "text": "$BBOT (BelieveBot) \n5GLRs8nZaqLjcbL1kYWttNJJ9q9LUWoMbLqnpGeSRpxy\n\n💰 Marketcap: $366.47K\n\nCALLS - 1\n\n14 MAY (UTC)\n1. Apex Solana Signal 🆕\n└ 21:28:54\n\nDextools | Dexscreener | Pump",
-    "links": [
-      "https://dexscreener.com/solana/5GLRs8nZaqLjcbL1kYWttNJJ9q9LUWoMbLqnpGeSRpxy",
-      "https://solscan.io/token/5GLRs8nZaqLjcbL1kYWttNJJ9q9LUWoMbLqnpGeSRpxy",
-      "https://www.dextools.io/app/en/solana/pair-explorer/5GLRs8nZaqLjcbL1kYWttNJJ9q9LUWoMbLqnpGeSRpxy",
-      "https://t.me/ApexSolanaSignal/14750",
-      "https://www.pump.fun/5GLRs8nZaqLjcbL1kYWttNJJ9q9LUWoMbLqnpGeSRpxy"
-    ]
-  },
-  {
     "id": "465592",
     "date": "2025-05-14 21:29:09+00:00",
     "text": "$ART (artcoin) \nAVFjjcLwyxp6yfuAwKAAziDD45iGVpvXtnpKYowi3FcE\n\n💰 Marketcap: $138.69K\n\n🟢 CALLS - 3\n\n14 MAY (UTC)\n1. Apex Solana Signal \n└ 21:19:48\n2. 4AM Solana Volume Signal \n└ 21:20:28\n3. 🦋𝐁𝐋𝐔𝐄 𝐁𝐈𝐑𝐃 “𝟐𝟖𝟔𝟓 🆕\n└ 21:28:59\n\nDextools | Dexscreener | Pump",
@@ -62,6 +50,19 @@
       "https://dexscreener.com/solana/3n6rKxVLR7WzZbG7SVWPfTv8EPndao2m4rAbUadCpump",
       "https://www.dextools.io/app/en/solana/pair-explorer/3n6rKxVLR7WzZbG7SVWPfTv8EPndao2m4rAbUadCpump",
       "https://solscan.io/token/3n6rKxVLR7WzZbG7SVWPfTv8EPndao2m4rAbUadCpump"
+    ]
+  },
+  {
+    "id": "465596",
+    "date": "2025-05-14 21:29:19+00:00",
+    "text": "🧪 $FROGE (FROGE) \n7JS8529Rh515PGqRw7yNCT5fiwDdvP2pnLEpd2axbonk\n\n💰 Marketcap: $27.44K\n\nCALLS - 1\n\n14 MAY (UTC)\n1. Memes Don’t Lies 🆕\n└ 21:29:17\n\nDextools | Dexscreener | LaunchLab\n\n👉 Experience Dogee on BSC for Lightning-Fast Copy Trading",
+    "links": [
+      "https://solscan.io/token/7JS8529Rh515PGqRw7yNCT5fiwDdvP2pnLEpd2axbonk",
+      "https://t.me/MemesDontLies/96528",
+      "https://raydium.io/launchpad/token/?mint=7JS8529Rh515PGqRw7yNCT5fiwDdvP2pnLEpd2axbonk",
+      "https://dexscreener.com/solana/7JS8529Rh515PGqRw7yNCT5fiwDdvP2pnLEpd2axbonk",
+      "https://www.dextools.io/app/en/solana/pair-explorer/7JS8529Rh515PGqRw7yNCT5fiwDdvP2pnLEpd2axbonk",
+      "https://t.me/dogeebsc_bot?start=inv-1524500950"
     ]
   }
 ]
