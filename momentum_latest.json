@@ -1,19 +1,5 @@
 [
   {
-    "id": "465600",
-    "date": "2025-05-14 21:29:46+00:00",
-    "text": "$BBOT (BelieveBot) \n5GLRs8nZaqLjcbL1kYWttNJJ9q9LUWoMbLqnpGeSRpxy\n\n💰 Marketcap: $524.15K\n\n🟢 CALLS - 3\n\n14 MAY (UTC)\n1. Apex Solana Signal \n└ 21:28:54\n2. 4AM Solana Volume Signal \n└ 21:29:08\n3. Madness Call 🆕\n└ 21:29:41\n\nDextools | Dexscreener | Pump",
-    "links": [
-      "https://dexscreener.com/solana/5GLRs8nZaqLjcbL1kYWttNJJ9q9LUWoMbLqnpGeSRpxy",
-      "https://solscan.io/token/5GLRs8nZaqLjcbL1kYWttNJJ9q9LUWoMbLqnpGeSRpxy",
-      "https://www.dextools.io/app/en/solana/pair-explorer/5GLRs8nZaqLjcbL1kYWttNJJ9q9LUWoMbLqnpGeSRpxy",
-      "https://t.me/ApexSolanaSignal/14750",
-      "https://t.me/signalsolanaby4am/75808",
-      "https://www.pump.fun/5GLRs8nZaqLjcbL1kYWttNJJ9q9LUWoMbLqnpGeSRpxy",
-      "https://t.me/MadnessCall/21918"
-    ]
-  },
-  {
     "id": "465601",
     "date": "2025-05-14 21:30:10+00:00",
     "text": "🧪 $Benny (Petunia's Dad) \n77tJswdataLAxjHHqCasvefmRCJZBvFsDpX46B7kbonk\n\n💰 Marketcap: $21.18K\n\nCALLS - 1\n\n14 MAY (UTC)\n1. Memes Don’t Lies 🆕\n└ 21:30:00\n\n🟢 Website \n\nDextools | Dexscreener | LaunchLab",
@@ -76,6 +62,22 @@
       "https://www.dextools.io/app/en/solana/pair-explorer/AVFjjcLwyxp6yfuAwKAAziDD45iGVpvXtnpKYowi3FcE",
       "https://dexscreener.com/solana/AVFjjcLwyxp6yfuAwKAAziDD45iGVpvXtnpKYowi3FcE",
       "https://t.me/dogeebsc_bot?start=inv-1524500950"
+    ]
+  },
+  {
+    "id": "465605",
+    "date": "2025-05-14 21:33:29+00:00",
+    "text": "$BBOT (BelieveBot) \n5GLRs8nZaqLjcbL1kYWttNJJ9q9LUWoMbLqnpGeSRpxy\n\n💰 Marketcap: $842.66K\n\n🟢 CALLS - 4\n\n14 MAY (UTC)\n1. Apex Solana Signal \n└ 21:28:54\n2. 4AM Solana Volume Signal \n└ 21:29:08\n3. Madness Call \n└ 21:29:41\n4. Signal by Sol Trend 🆕\n└ 21:33:22\n\n🟢 SOL TRENDING（Time of first appearance on SOL TRENDING.）\n2025-05-14 21:33:03 UTC\n\nDextools | Dexscreener | Pump",
+    "links": [
+      "https://dexscreener.com/solana/5GLRs8nZaqLjcbL1kYWttNJJ9q9LUWoMbLqnpGeSRpxy",
+      "https://solscan.io/token/5GLRs8nZaqLjcbL1kYWttNJJ9q9LUWoMbLqnpGeSRpxy",
+      "tg://resolve?domain=trendingssol",
+      "https://www.dextools.io/app/en/solana/pair-explorer/5GLRs8nZaqLjcbL1kYWttNJJ9q9LUWoMbLqnpGeSRpxy",
+      "https://t.me/ApexSolanaSignal/14750",
+      "https://t.me/signalsolanaby4am/75808",
+      "https://www.pump.fun/5GLRs8nZaqLjcbL1kYWttNJJ9q9LUWoMbLqnpGeSRpxy",
+      "https://t.me/MadnessCall/21918",
+      "https://t.me/sol_trend/33289"
     ]
   }
 ]
