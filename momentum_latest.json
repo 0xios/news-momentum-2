@@ -1,18 +1,5 @@
 [
   {
-    "id": "465252",
-    "date": "2025-05-14 19:43:21+00:00",
-    "text": "$TEQUILA (mingles) \n8oKJ9xGV6mkrQHxTNQtYveHDUPzXUwLHM5RDQqfkivgz\n\n💰 Marketcap: $139.42K\n\nCALLS - 1\n\n14 MAY (UTC)\n1. Apex Solana Signal 🆕\n└ 19:43:19\n\nDextools | Dexscreener | Pump\n\n👉 Experience Dogee on BSC for Lightning-Fast Copy Trading",
-    "links": [
-      "https://solscan.io/token/8oKJ9xGV6mkrQHxTNQtYveHDUPzXUwLHM5RDQqfkivgz",
-      "https://www.dextools.io/app/en/solana/pair-explorer/8oKJ9xGV6mkrQHxTNQtYveHDUPzXUwLHM5RDQqfkivgz",
-      "https://www.pump.fun/8oKJ9xGV6mkrQHxTNQtYveHDUPzXUwLHM5RDQqfkivgz",
-      "https://t.me/dogeebsc_bot?start=inv-1524500950",
-      "https://dexscreener.com/solana/8oKJ9xGV6mkrQHxTNQtYveHDUPzXUwLHM5RDQqfkivgz",
-      "https://t.me/ApexSolanaSignal/14541"
-    ]
-  },
-  {
     "id": "465253",
     "date": "2025-05-14 19:43:48+00:00",
     "text": "$TEQUILA (mingles) \n8oKJ9xGV6mkrQHxTNQtYveHDUPzXUwLHM5RDQqfkivgz\n\n💰 Marketcap: $89.19K\n\n🟢 CALLS - 2\n\n14 MAY (UTC)\n1. Apex Solana Signal \n└ 19:43:19\n2. 4AM Solana Volume Signal 🆕\n└ 19:43:29\n\nDextools | Dexscreener | Pump",
@@ -83,6 +70,20 @@
       "https://t.me/DoctoreDegens/4381",
       "https://www.pump.fun/DFF59cx9B5k9sgwdFUV6MVbiJwFrHhxgUMD45V7wJCdi",
       "https://dexscreener.com/solana/DFF59cx9B5k9sgwdFUV6MVbiJwFrHhxgUMD45V7wJCdi"
+    ]
+  },
+  {
+    "id": "465257",
+    "date": "2025-05-14 19:45:08+00:00",
+    "text": "💊 $Asslana (Asslana) \n6rx7m74t4wdE1gC1uRzKrpHTN6TRycvpQpyraCmCpump\n\n💰 Marketcap: $39.56K\n\n🟢 CALLS - 3\n\n14 MAY (UTC)\n1. 4AM Pumpfun Volume Signal \n└ 19:28:06\n2. THE DEGEN BOYS \n└ 19:28:11\n3. Marks Gems 💎 🆕\n└ 19:44:59\n\nDextools | Dexscreener | Pump",
+    "links": [
+      "https://solscan.io/token/6rx7m74t4wdE1gC1uRzKrpHTN6TRycvpQpyraCmCpump",
+      "https://dexscreener.com/solana/6rx7m74t4wdE1gC1uRzKrpHTN6TRycvpQpyraCmCpump",
+      "https://www.dextools.io/app/en/solana/pair-explorer/6rx7m74t4wdE1gC1uRzKrpHTN6TRycvpQpyraCmCpump",
+      "https://t.me/TheDegenBoysLounge/28406",
+      "https://www.pump.fun/6rx7m74t4wdE1gC1uRzKrpHTN6TRycvpQpyraCmCpump",
+      "https://t.me/pumpfunvolumeby4AM/59858",
+      "https://t.me/MarksGems/15736"
     ]
   }
 ]
