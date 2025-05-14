@@ -1,17 +1,5 @@
 [
   {
-    "id": "465090",
-    "date": "2025-05-14 18:42:18+00:00",
-    "text": "$GRIFT (Griftards) \nAqYvq9GoEUpvsybQxGcrw5gPWRURfVLnURhhouXowAU9\n\n💰 Marketcap: $540.50K\n\nCALLS - 1\n\n14 MAY (UTC)\n1. Apex Solana Signal 🆕\n└ 18:42:16\n\nDextools | Dexscreener | Pump",
-    "links": [
-      "https://dexscreener.com/solana/AqYvq9GoEUpvsybQxGcrw5gPWRURfVLnURhhouXowAU9",
-      "https://t.me/ApexSolanaSignal/14458",
-      "https://www.dextools.io/app/en/solana/pair-explorer/AqYvq9GoEUpvsybQxGcrw5gPWRURfVLnURhhouXowAU9",
-      "https://www.pump.fun/AqYvq9GoEUpvsybQxGcrw5gPWRURfVLnURhhouXowAU9",
-      "https://solscan.io/token/AqYvq9GoEUpvsybQxGcrw5gPWRURfVLnURhhouXowAU9"
-    ]
-  },
-  {
     "id": "465091",
     "date": "2025-05-14 18:42:49+00:00",
     "text": "$GRIFT (Griftards) \nAqYvq9GoEUpvsybQxGcrw5gPWRURfVLnURhhouXowAU9\n\n💰 Marketcap: $586.73K\n\n🟢 CALLS - 2\n\n14 MAY (UTC)\n1. Apex Solana Signal \n└ 18:42:16\n2. 4AM Solana Volume Signal 🆕\n└ 18:42:38\n\nDextools | Dexscreener | Pump",
@@ -62,6 +50,17 @@
       "https://www.pump.fun/AqYvq9GoEUpvsybQxGcrw5gPWRURfVLnURhhouXowAU9",
       "https://solscan.io/token/AqYvq9GoEUpvsybQxGcrw5gPWRURfVLnURhhouXowAU9",
       "https://t.me/dogeebsc_bot?start=inv-1524500950"
+    ]
+  },
+  {
+    "id": "465095",
+    "date": "2025-05-14 18:43:48+00:00",
+    "text": "💊 $CAT420 (420Cat) \nD8Ws3vNySqeYF6dfDyFdnxQV3yHsFWbEj85dmGDcpump\n\n💰 Marketcap: $36.43K\n\nCALLS - 1\n\n14 MAY (UTC)\n1. Moo Deng President 🆕\n└ 18:43:38\n\nDextools | Dexscreener | Pump",
+    "links": [
+      "https://solscan.io/token/D8Ws3vNySqeYF6dfDyFdnxQV3yHsFWbEj85dmGDcpump",
+      "https://dexscreener.com/solana/D8Ws3vNySqeYF6dfDyFdnxQV3yHsFWbEj85dmGDcpump",
+      "https://www.dextools.io/app/en/solana/pair-explorer/D8Ws3vNySqeYF6dfDyFdnxQV3yHsFWbEj85dmGDcpump",
+      "https://t.me/MooDengPresidentCallers/59996"
     ]
   }
 ]
